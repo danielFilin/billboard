@@ -1,0 +1,93 @@
+body{
+    margin: 2%;
+}
+
+#logout-button{
+    float: right;
+    position: absolute;
+}
+
+.billboard-title{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+.align-center{
+    text-align: center;
+}
+
+.empty-box{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+}
+
+.message-box{
+    border: 3px solid #00b7ef;
+    max-width: 800px;
+    height: fit-content;
+    padding: 1%;
+    margin: 1%;
+}
+
+.date{
+    font-family: 'Poiret One', cursive;
+    font-size: 16px;
+    color: black;
+    width: 101px;
+}
+
+.title{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color:#00b7ef;
+}
+
+.message{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #c1bfc0;
+}
+
+.author{
+    font-family: 'Pinyon Script', cursive;
+    font-size: 24px;
+    color: black;
+    float: right;
+}
+
+.form{
+    border: 3px dotted #00b7ef;
+    max-width: 800px;
+    padding: 1%;
+    margin: 1%;
+
+}
+
+.my-input{
+    height: 100px;
+    width: 100%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.add-text{
+    border: 1px dashed black;
+    max-width: 800px;
+    padding: 1%;
+}
+
+.send-button, .plus-button{
+    background-color: #66CDAA;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.cancel-button{
+    background-color: red;
+    font-size: 16px;
+    cursor: pointer;
+}
